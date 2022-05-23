@@ -1,0 +1,1 @@
+/usr/bin/g++  -g   CMakeFiles/lr.dir/main.cpp.o CMakeFiles/lr.dir/Extraccion/extraer.cpp.o CMakeFiles/lr.dir/linearregression.cpp.o  -o lr 

@@ -1,0 +1,3 @@
+/home/ubuntu/Documents/HPC/QT/lr/Debug/CMakeFiles/edit_cache.dir
+/home/ubuntu/Documents/HPC/QT/lr/Debug/CMakeFiles/rebuild_cache.dir
+/home/ubuntu/Documents/HPC/QT/lr/Debug/CMakeFiles/lr.dir
